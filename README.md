@@ -1,2 +1,2 @@
-These projects were done in Python and are related to data analytics and data science.
+These projects were done in Python, apart of Udemy's Python for Data Science and Machine Learning Bootcamp
 Libraries: Pandas, NumPy, Seaborn, Matplotlib, Keras/TensorFlow
